@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Edward Morad</h1>
 <h3 align="center">A Passionate and Enthusiastic AI Engineer</h3>
 <img align="right" alt="Coding" width="400" src=https://chatgpt.com/c/670d3648-afbc-8001-8131-bdcf126e4caf >
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=edward569&label=Profile%20views&color=0e75b6&style=flat" alt="edward569" /> </p>
+<p align="left"> <img src="[https://komarev.com/ghpvc/?username](https://chatgpt.com/c/670d3648-afbc-8001-8131-bdcf126e4caf)=edward569&label=Profile%20views&color=0e75b6&style=flat" alt="edward569" /> </p>
 
 - 🌱 I’m currently learning **NLP , Image Processing , Computer Vision**
 
